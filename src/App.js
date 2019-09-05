@@ -9,13 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           hello! vk!!!!
-          hjhjjnj
-          hejkcdsx
-          fvdc
-          uyfrjds
-          what the fuck!
-          yes
-          fuck u mother fucker
+          i was made to delete the lines u cant see
         </p>
         <a
           className="App-link"
